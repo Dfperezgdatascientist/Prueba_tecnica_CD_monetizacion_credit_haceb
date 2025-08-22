@@ -44,3 +44,9 @@ compras_promedio_mensual, etc.
 * ingreso_mensual 
 * meses_como_cliente, compras_promedio_mensual 
 * tipo_empleo, antiguedad_laboral_años 
+
+### conclusiones:
+
+* Tinene mayor ingresos y edad los clientes antiguos de los Nuevos
+* La antiguedad laboral en años es mayor en los clientes antiguos que en los nuevos
+* Mejor modelo por f1 y recall es el  LightGBM Optuna(optimización de Hiperparametros), el punto de corte ideal de default es de 0.52.
